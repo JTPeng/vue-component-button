@@ -20,6 +20,18 @@
     "Button",
     "kewin"
   ],
+  "homepage": "https://github.com/JTPeng/vue-component-button",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/JTPeng/vue-component-button/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JTPeng/vue-component-button"
+  },
+  "contributors": [
+    "JTPeng"
+  ],
   "dependencies": {
     "core-js": "^3.6.4",
     "vue": "^2.6.11"
@@ -51,5 +63,6 @@
     "> 1%",
     "last 2 versions",
     "not dead"
-  ]
+  ],
+  "main": "lib/weui.umd.min.js"
 }
