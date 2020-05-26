@@ -1,29 +1,23 @@
 # vui-component
 
 ## Project setup
+
 ```
-npm install
+npm i vui-component
 ```
 
 ### Compiles and hot-reloads for development
+
 ```
-npm run serve
+npm run serve / yarn serve
 ```
 
-### Compiles and minifies for production
-```
-npm run build
-```
+### Compiles UI
 
-### Run your tests
 ```
-npm run test
-```
-
-### Lints and fixes files
-```
-npm run lint
+npm run lib / yarn lib
 ```
 
 ### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+
+See [Configuration Reference](https://github.com/JTPeng/vue-component-button).
